@@ -19,7 +19,6 @@ dependencies = [
     "streamlit>=1.64.0",
     "torch>=2.14.0",
     "tqdm>=4.70.1",
-    "tradingenv>=0.1.3",
     "yfinance>=1.7.0",
 ]
 
