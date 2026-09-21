@@ -7,15 +7,18 @@ requires-python = ">=3.11"
 dependencies = [
     "gymnasium>=1.3.0",
     "ipykernel>=7.3.0",
+    "ipywidgets>=8.1.9",
     "matplotlib>=3.11.2",
     "numpy>=2.4.6",
     "pandas>=3.0.6",
     "plotly>=7.1.0",
+    "rich>=15.0.0",
     "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
     "stable-baselines3>=2.9.0",
     "streamlit>=1.64.0",
     "torch>=2.14.0",
+    "tqdm>=4.70.1",
     "tradingenv>=0.1.3",
     "yfinance>=1.7.0",
 ]
