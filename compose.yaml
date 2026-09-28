@@ -1,5 +1,5 @@
 services:
-  rl-stock-trading:
+  backend:
     build:
       context: .
       dockerfile: ./Dockerfile
